@@ -1,0 +1,120 @@
+{
+    "results": [
+        {
+            "name": {
+                "title": "mrs",
+                "first": "elsa",
+                "last": "henry"
+            },
+            "registered": {
+                "date": "2008-11-02T22:45:50Z",
+                "age": 10
+            }
+        },
+        {
+            "name": {
+                "title": "mrs",
+                "first": "alicia",
+                "last": "fernandez"
+            },
+            "registered": {
+                "date": "2008-11-27T17:57:28Z",
+                "age": 10
+            }
+        },
+        {
+            "name": {
+                "title": "miss",
+                "first": "kiara",
+                "last": "giraud"
+            },
+            "registered": {
+                "date": "2018-01-04T01:42:37Z",
+                "age": 1
+            }
+        },
+        {
+            "name": {
+                "title": "mrs",
+                "first": "diane",
+                "last": "fontai"
+            },
+            "registered": {
+                "date": "2012-09-17T06:06:15Z",
+                "age": 6
+            }
+        },
+        {
+            "name": {
+                "title": "miss",
+                "first": "lia",
+                "last": "brun"
+            },
+            "registered": {
+                "date": "2014-01-01T01:33:08Z",
+                "age": 5
+            }
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "soren",
+                "last": "le gall"
+            },
+            "registered": {
+                "date": "2010-12-18T21:02:20Z",
+                "age": 8
+            }
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "elias",
+                "last": "meyer"
+            },
+            "registered": {
+                "date": "2004-04-24T12:37:45Z",
+                "age": 15
+            }
+        },
+        {
+            "name": {
+                "title": "miss",
+                "first": "mélina",
+                "last": "le gall"
+            },
+            "registered": {
+                "date": "2003-12-10T16:58:36Z",
+                "age": 15
+            }
+        },
+        {
+            "name": {
+                "title": "mr",
+                "first": "ilyès",
+                "last": "guillot"
+            },
+            "registered": {
+                "date": "2016-04-27T01:25:36Z",
+                "age": 3
+            }
+        },
+        {
+            "name": {
+                "title": "mrs",
+                "first": "sara",
+                "last": "renard"
+            },
+            "registered": {
+                "date": "2017-10-18T04:06:58Z",
+                "age": 1
+            }
+        }
+    ],
+    "info": {
+        "seed": "550c150ffa29b11d",
+        "results": 10,
+        "page": 1,
+        "version": "1.2"
+    }
+}
